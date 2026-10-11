@@ -1,4 +1,4 @@
-# Hi, I'm Qalandar 👋
+# Hi, I'm Kalandar 👋
 
 ### Junior Web Developer | Computer Science Student
 
