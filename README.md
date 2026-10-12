@@ -26,7 +26,7 @@ I'm currently developing new projects. Featured repositories and live demos will
 ##   📫 Connect With Me
 
 - GitHub: https://github.com/kalandardev
-- Email: kalandardev@gmail.com
+- Email: qalandar0910@gmail.com
 - Telegram: https://t.me/WinualStore
 
 ---
